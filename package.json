@@ -1,0 +1,16 @@
+{
+  "name": "pct-00-demo-2",
+  "version": "0.0.0",
+  "description": "Description for pct00demo2",
+  "private": true,
+  "license": "UNLICENSED",
+  "cacheDirectories": [
+    "node_modules"
+  ],
+  "devDependencies": {
+    "generator-jhipster": "4.14.4"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  }
+}
